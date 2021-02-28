@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Let's get started by editing <code>pages/index.js</code>
+          Let's get started by editing <code>pages/index.js</code> and upload to Netlify. 
         </p>
       </main>
 
