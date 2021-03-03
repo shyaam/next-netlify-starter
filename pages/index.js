@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Let's get started by editing <code>pages/index.js</code> and upload to Netlify. 
         </p>
+        <p>
+          And the story continues!!!   
+        </p>
       </main>
 
       <Footer />
